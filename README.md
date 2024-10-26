@@ -1,3 +1,5 @@
+909B16
+
 Ahoj, toto je veľmi dôležitý email! Dočítaj dokonca!
 Pre všetkých účastníkov je potrebné spraviť ešte 2 registrácie, ktoré sme včera odložili z časových dôvodov na dnes. Jedna je do Kreatívneho centra Skladová (KCS) a tá druhá priamo na platformu GameJam+. KCS je partner tohto podujatia, vďaka ktorému sme sa tu mohli stretnúť a poskytnúť vám priestory a nejaké to občerstvenie zadarmo. 
 Registrácia do KCS (v 7. bode prosím zaškrtnite Podpora herného priemyslu pre Fyzické osoby – nepodnikateľov.):
